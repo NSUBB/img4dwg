@@ -26,7 +26,7 @@ This tool allows you to apply a customizable color overlay to an entire folder o
 - ⚡ Batch-processes all images in seconds
 - 💾 Saves processed images in a `Processed` subfolder
 
-<img width="674" height="678" alt="image" src="https://github.com/user-attachments/assets/12c6688b-163e-4ced-b873-303cb363d9ed" />
+<img width="681" height="682" alt="image" src="https://github.com/user-attachments/assets/bd940eb5-1113-4fa5-adf8-63a28b5e1add" />
 
 ---
 
