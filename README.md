@@ -87,6 +87,13 @@ This tool allows you to apply a customizable color overlay to an entire folder o
 
 ---
 
+## Version History
+
+ - v2.0 Transparency added and output forced to PNG.
+ - v1.0 Initial Release
+
+---
+
 ## 📃 License
 This project is open-source and free to use. See LICENSE for details.
 
